@@ -41,7 +41,7 @@ Once installed you can define the configuration in the `package.json` file of yo
     "color-accent": "var(--palette-pink-a200)",
     "color-accent-dark": "var(--palette-pink-700)",
     "color-primary-contrast": "var(--color-dark-contrast)",
-    "color-accent-contrast": "var(--color-dark-contrast)",
+    "color-accent-contrast": "var(--color-dark-contrast)"
   },
   "output": "assets/react-toolbox"
 }
