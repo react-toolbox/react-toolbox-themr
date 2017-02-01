@@ -105,7 +105,7 @@ All of these options have the same name if you use them in your `package.json`, 
 
 ## About
 
-The project is originally authored by [Javi Velasco](www.twitter.com/javivelasco) as an effort of providing a better adoption experience for React Toolbox. Any comments, improvements or feedback are highly appreciated.
+The project is originally authored by [Javi Velasco](https://twitter.com/javivelasco) as an effort of providing a better adoption experience for React Toolbox. Any comments, improvements or feedback are highly appreciated.
 
 ## License
 This project is licensed under the terms of the [MIT license](https://github.com/react-toolbox/react-toolbox-themr/blob/master/LICENSE).
