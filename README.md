@@ -10,7 +10,7 @@ A command line tool to help you extract [react-toolbox](www.react-toolbox.com) s
 $ yarn add --dev react-toolbox-themr react-toolbox@2.0.0-beta.6
 ```
 
-Note it only works with **React Toolbox 2.0 beta**.
+Note it only works with **React Toolbox 2.0 beta**. The output path shown in the GIF is outdated, now by default the assets are generated at `src/toolbox`.
 
 ![react-toolbox-themr](https://cloud.githubusercontent.com/assets/1634922/21305836/285a092a-c5ce-11e6-8ad4-7b170dc97d1b.gif)
 
