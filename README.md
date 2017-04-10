@@ -4,7 +4,7 @@
 
 # React Toolbox Themr
 
-A command line tool to help you extract [react-toolbox](www.react-toolbox.com) style modules to static files so you can integrate it in nearly any stack.
+A command line tool to help you extract [react-toolbox](http://react-toolbox.com) style modules to static files so you can integrate it in nearly any stack.
 
 ```
 $ yarn add --dev react-toolbox-themr react-toolbox@2.0.0-beta.6
