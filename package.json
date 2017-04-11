@@ -52,6 +52,6 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "react-toolbox": "^2.0.0"
+    "react-toolbox": "^2.0.0-beta.8"
   }
 }
